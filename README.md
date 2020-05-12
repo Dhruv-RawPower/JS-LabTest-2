@@ -1,2 +1,2 @@
 # JS-LabTest-2
-Please find the attachments. 3 files are includes excluding the readme file. Thank you!
+Please find the attachments. In folder Test2, 3 files are included. Thank you!
